@@ -1,4 +1,5 @@
-# PMU-1
+# S300 PMU-1
+#Only for ARM Cortex A9.
 Compile with:
 
 
